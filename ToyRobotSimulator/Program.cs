@@ -19,7 +19,7 @@ namespace ToyRobotSimulator
                 Console.WriteLine(robot.DoCommand(strCommand));
              }
 
-            Console.WriteLine("Exited. Press any key to close...");
+            Console.WriteLine("Exited. Press any key to close... === test ===");
             Console.ReadKey();
         }
     }
